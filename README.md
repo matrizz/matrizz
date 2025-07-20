@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there, how’s it going? 👋
 
-<!--
-**matrizz/matrizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m matrizz, passionate about programming and computer science.
 
-Here are some ideas to get you started:
+🔭 Currently diving into fullstack projects with TypeScript and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning more about scalable software architecture and backend best practices.
+
+👯 Looking to collaborate on open-source projects that challenge me and make an impact.
+
+🤔 Always open to discussing development process optimizations, especially CI/CD.
+
+💬 Ask me about programming languages, web development, and software design.
+
+📫 Find me here on GitHub or via LinkedIn: [luiz-hs](https://www.linkedin.com/in/luiz-hs/)
+
+<br/>
+
+> ⚡ Fun fact: I enjoy solving complex problems and turning ideas into clean, efficient code.
